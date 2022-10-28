@@ -39,7 +39,7 @@ import java.util.*;
        System.out.println(packet_bits);
 	System.out.println("\n\n");
 	System.out.println("\t RECEIVER PROCESS\n\n");
-	if (count%2!=0){
+	if (count%2==0){
 		
            	System.out.println("MESSAGE ACCEPTED");
         }
